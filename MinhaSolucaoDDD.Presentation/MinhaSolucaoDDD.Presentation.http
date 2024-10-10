@@ -1,0 +1,6 @@
+@MinhaSolucaoDDD.Presentation_HostAddress = http://localhost:5158
+
+GET {{MinhaSolucaoDDD.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
